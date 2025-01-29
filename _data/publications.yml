@@ -1,6 +1,6 @@
 main:
 
-  - title: HyperPLR':' Hypergraph Generation through Projection, Learning, and Reconstruction
+  - title: "HyperPLR: Hypergraph Generation through Projection, Learning, and Reconstruction"
     authors: <strong>Weihuang Wen</strong>, Tianshu Yu
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
