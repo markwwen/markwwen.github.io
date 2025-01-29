@@ -1,3 +1,3 @@
 # Homepage
 
-Powered by [minimal-light](https://github.com/yaoyao-liu/minimal-light).
+Powered by Jekyll and [minimal-light](https://github.com/yaoyao-liu/minimal-light).
