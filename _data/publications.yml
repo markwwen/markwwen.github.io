@@ -7,6 +7,6 @@ main:
     pdf: https://openreview.net/pdf?id=TYnne6Pa35
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/hyperplr.jpg
+    image: ./assets/img/HyperPLR.png
     notes: Poster
 
