@@ -9,8 +9,11 @@ I am now a second-year phd candidate in [The Chinese University of Hong Kong, Sh
 
 ## Research Interests
 
-- **Learning for Boolean Satisfiability Problem (SAT):** SAT instance generation, Learning-aided SAT solver
-- **Learning for Combinatorial Optimization:** Learning-aided Algorithm Configuration
+- **Learning for Boolean Satisfiability Problem (SAT):**
+  - SAT instance generation
+  - Learning-aided SAT solver
+- **Learning for Combinatorial Optimization:** 
+  - Learning-aided Algorithm Configuration
 
 ## News
 
