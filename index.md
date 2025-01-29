@@ -18,7 +18,7 @@ I am now a second-year phd candidate in [The Chinese University of Hong Kong, Sh
 
 ## News
 
-- **[Jan. 2025]** Our paper about hypergraph generation is accepted to ICLR 2025.
+- **[Jan. 2025]** One paper about hypergraph generation is accepted to ICLR 2025.
 
 {% include_relative _includes/publications.md %}
 
