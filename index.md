@@ -23,3 +23,9 @@ I am now a second-year phd candidate in [The Chinese University of Hong Kong, Sh
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Awards & Honors
+
+- **University Scholarship**, SUSTech 2018 – 2019
+- **College Student Start-up Scholarship**, SUSTech 2014 – 2017
+
