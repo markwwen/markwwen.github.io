@@ -1,5 +1,16 @@
 ## Services
 
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>CSC4120:Design and Analysis of Algorithms, by <a href="https://sds.cuhk.edu.cn/en/teacher/473">Prof. Costas Courcoubetis</a> (CUHKSZ 25S)</autocolor></li>
+  <li><autocolor>CSC3001: Discrete Mathematics, by <a href="https://bxiangwang.github.io">Prof. Baoxiang Wang</a> (CUHKSZ 24F/23F)</autocolor></li>
+  <li><autocolor>DDA2001: Introduction to Data Science, by Prof. Jiaqi Lu & Prof. Pin Gao & Prof. Zicheng Wang & Prof. Shuang Li (CUHKSZ 24S)</autocolor></li>
+  <li><autocolor>CS201: Discrete Math for Computer Science, by <a href="https://dake98.github.io">Prof. Qi Wang</a> (SUSTech 19F)</autocolor></li>
+</ul>
+
+
+
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
@@ -15,3 +26,7 @@
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
 </ul> 
 -->
+
+<!-- #### Teaching Assistant -->
+
+
