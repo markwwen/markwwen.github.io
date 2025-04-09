@@ -26,6 +26,8 @@ I am now a second-year phd candidate in the School of Data Science at [The Chine
 
 ## Awards & Honors
 
+- **Duan Yong Ping Travel Award**, CUHKSZ, 2025
+- **Excellence Award**, Information Hub & Greater Bay Area CS Institutes Joint Postgraduate Academic Poster Competition, 2025
 - **University Scholarship**, SUSTech, 2018 – 2019
 - **College Student Start-up Scholarship**, SUSTech, 2014 – 2017
 
