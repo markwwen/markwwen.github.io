@@ -1,6 +1,6 @@
 ## 🙇🏻‍♂️ Services
 
-<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
+<h3 style="margin:0 10px 0;">Teaching Assistant</h3>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>CSC4120: Design and Analysis of Algorithms, by <a href="https://sds.cuhk.edu.cn/en/teacher/473">Prof. Costas Courcoubetis</a> (CUHKSZ 25S)</autocolor></li>
