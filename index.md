@@ -11,8 +11,6 @@ I am now a third-year phd candidate in the School of Data Science at [The Chines
 
 - **LLM Inference Optimization**
 - **Hypergraph Learning**
-  - Hypergraph generation
-  - Hypergraph reconstruction
 - **ML-based Algorithm Configuration** 
 - **Learning for Boolean Satisfiability Problem (SAT)**
 
