@@ -6,16 +6,15 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://openreview.net/pdf?id=TYnne6Pa35
     # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/HyperPLR.png
     notes: Poster
 
   - title: "SAT-LLL: Lovász Local Lemma for SAT"
     authors: <strong>Weihuang Wen</strong>, Hengyi Qu, Tianshu Yu
-    conference_short: preprint
-    # conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    # conference_short: preprint
+    conference: preprint.
     # pdf: https://openreview.net/pdf?id=TYnne6Pa35
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/HyperPLR.png
+    image: ./assets/img/satlll.jpg
     # notes: Poster
