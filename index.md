@@ -18,7 +18,7 @@ I am now a third-year phd candidate in the School of Data Science at [The Chines
 ## 🗞️ News
 
 - **[Aug. 2026]** I'm excited to join Shanghai AI Lab as a Research Intern.
-- **[Aug. 2026]** Two papers accepted by EMNLP 2026 (1 main, 1 findings).
+- **[Aug. 2026]** Two papers were accepted to EMNLP 2026 (1 main, 1 findings).
 - **[Jul. 2025]** I'm excited to join Huawei's Theory Lab as a Research Intern.
 - **[Jan. 2025]** One paper about hypergraph generation is accepted to ICLR 2025.
 
