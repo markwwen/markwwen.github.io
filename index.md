@@ -26,6 +26,8 @@ I am now a fourth-year Ph.D. candidate in the School of Data Science at [The Chi
 
 {% include_relative _includes/services.md %}
 
+{% include_relative _includes/ta.md %}
+
 ## 🏅 Awards & Honors
 
 - **Duan Yong Ping Travel Award**, CUHKSZ, 2025
