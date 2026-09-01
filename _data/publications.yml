@@ -1,20 +1,29 @@
 main:
+  - title: "OUTLETS: Output-Length Prediction from Speculative Decoding Backbones"
+    authors: <strong class="author-highlight" style="color:#e74d3c;">Weihuang Wen</strong>, Yingying Liu, Yichuan Liu, Wenqi Zeng, Li Zhou, Chumin Sun, Jie Sun, Tianshu Yu
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP Main)</strong>, 2026.
+    image: ./assets/img/OUTLETS.png
+    code: https://github.com/LOGO-CUHKSZ/OUTLETS
+
+  - title: "Sparsity in Linear Attention Models: Bregman Testing Time Learning"
+    authors: Wenqi Zeng, Chen Yuang, Yuxuan Chen, <strong class="author-highlight" style="color:#e74d3c;">Weihuang Wen</strong>, Chumin Sun, Yichuan Liu, Li Zhou, Tian Wang, Fan Zhang, Yuan Yao, Jie Sun
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP Findings)</strong>, 2026.
+    image: ./assets/img/BregNet.png
+
+  - title: "HiSQRot4: SmoothQuant-Rotation HiFloat4 PTQ for W4A4 Text-to-Video Diffusion Models"
+    authors: Tian Wang, Wenqi Zeng, <strong class="author-highlight" style="color:#e74d3c;">Weihuang Wen</strong>, Chumin Sun, Yuxuan Chen, Yichuan Liu, Li Zhou, Jie Sun
+    conference_short: ICMEW
+    conference: IEEE International Conference on Multimedia and Expo Workshops <strong>(ICMEW)</strong>, 2026.
+    image: ./assets/img/HiSQRot4.png
+    pdf: https://challenge.gccorg.com/
+    code: https://github.com/WangTian0213/hisqrot4
 
   - title: "HyperPLR: Hypergraph Generation through Projection, Learning, and Reconstruction"
-    authors: <strong>Weihuang Wen</strong>, Tianshu Yu
+    authors: <strong class="author-highlight" style="color:#e74d3c;">Weihuang Wen</strong>, Tianshu Yu
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
-    pdf: https://openreview.net/pdf?id=TYnne6Pa35
-    # code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/HyperPLR.png
-    notes: Poster
-
-  - title: "SAT-LLL: Lovász Local Lemma for SAT"
-    authors: <strong>Weihuang Wen</strong>, Hengyi Qu, Tianshu Yu
-    # conference_short: preprint
-    conference: preprint.
-    # pdf: https://openreview.net/pdf?id=TYnne6Pa35
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/satlll.jpg
-    # notes: Poster
+    pdf: https://openreview.net/pdf?id=TYnne6Pa35
+    code: https://github.com/LOGO-CUHKSZ/HyperPLR
